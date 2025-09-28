@@ -12,6 +12,6 @@ I use this repo to track my problem-solving progress and improve my competitive 
 
 ## 🧠 Author
 
-- Codeforces: [LearningRelatively](https://codeforces.com/profile/myhandle)
+- Codeforces: [LearningRelatively](https://codeforces.com/profile/LearningRelatively)
 - Language: C (C99 Standard)
 
